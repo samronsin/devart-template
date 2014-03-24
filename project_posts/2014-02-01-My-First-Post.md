@@ -1,5 +1,6 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Hello, this is my first post! I have been quite busy lately, so not that much time to update this project, but thinking a lot about it. I haven't had much opportunity to work with moving images, so I want the Fourier crystal rain to be all about moving images. I'm also working on an exciting video-game-based interaction experience...
+
+A little background on the basis of this project: it comes from a mathematical texture "model" that I developped a few years ago. It was more of a reflection on how to introduce edges in texture synthesis algorithm based on the Fourier transform. So let me first try to explain what this Fourier transformation (FT) does to an image. The FT basicly translates an image that you can visually understand (like most of what your screen displays) into an  abstract image. This abstract image contains exactly the same information as the original image, but from a very different point of view. An ordinary image (like a photograph) encodes information as "at this pixel, there is this color with this intensity", that's what your computer says to your screen. Through the lens of the Fourier transformation, the information is encoded like "here is the intensity and the color of the patterns that occur with this spatial frequency". Anyways, the image you see below is one sample drawn from this model. I once showed it to a friend of mine and she said "it looks like it's raining crystals"... Hence the title of this project!
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
